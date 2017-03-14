@@ -1,0 +1,10 @@
+{
+  "name": "mylittlenewsstack",
+  "version": "1.0.0",
+  "description": "A new stack app",
+  "author": "thisisdax <weihua@live.com.sg>",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm install express"
+  }
+}
